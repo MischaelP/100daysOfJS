@@ -1,0 +1,21 @@
+#container {
+    background-color: gray;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    
+}
+
+#btn-zone{
+    border-top: 1px solid white;
+    margin-top: 20px;
+}
+#counter{
+    margin-top: 20px;
+}
